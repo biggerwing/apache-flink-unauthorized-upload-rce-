@@ -1,6 +1,9 @@
 # apache-flink-unauthorized-upload-rce-
 Apache Flink未授权访问上传导致的RCE漏洞 | apache flink unauthorized upload rce
 
+# 简单用法
+python3 script.py ip port command
+
 # 漏洞详细信息
 1. Apache Flink 控制台默认情况下存在未授权访问
 2. 在Submit New Job处可添加上传jar包并在服务端执行
