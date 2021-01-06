@@ -1,5 +1,5 @@
 # apache-flink-unauthorized-upload-rce-
-Apache Flink未授权访问上传导致的RCE漏洞 | apache flink unauthorized upload rce
+Apache Flink未授权访问上传导致的RCE漏洞 | apache flink unauthorized upload rce | CVE-2020-17519
 
 # 简单用法
 python3 script.py ip port command
